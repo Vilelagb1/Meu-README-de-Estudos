@@ -1,0 +1,8 @@
+[] Mercado de Tecnologia e Fundamentos da Internet
+[x] Git e Github: Versionamento de código
+[] HTML5
+[] CSS3
+[] Sass
+[] Javascript
+[] Orientação a Objetos
+[] Angular
